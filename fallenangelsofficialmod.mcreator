@@ -1,10 +1,33 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "NeverGonnaGiveYouUp",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "never_gonna_give_you_up"
+    }
+  ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "nevergonnagiveyouup",
+      "files": [
+        "rick_astley_-_never_gonna_give_you_up_official_music_video"
+      ],
+      "category": "music",
+      "subtitle": "Get Rick Rolled"
+    }
+  ],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.fallenangelsofficialmod.never_gonna_give_you_up.desc": "Rick Astley - Never gonna give you up",
+      "subtitles.nevergonnagiveyouup": "Get Rick Rolled",
+      "item.fallenangelsofficialmod.never_gonna_give_you_up": "Never Gonna Give You Up"
+    }
   },
   "foldersRoot": {
     "name": "~",

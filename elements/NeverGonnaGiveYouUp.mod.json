@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc",
+    "name": "Never Gonna Give You Up",
+    "description": "Rick Astley - Never gonna give you up",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:nevergonnagiveyouup"
+    },
+    "specialInfo": [
+      "Get Rick Rolled"
+    ],
+    "hasGlow": true
+  }
+}
