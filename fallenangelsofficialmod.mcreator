@@ -9,6 +9,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "never_gonna_give_you_up"
+    },
+    {
+      "name": "DejaVu",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deja_vu"
     }
   ],
   "variable_elements": [],
@@ -20,10 +29,21 @@
       ],
       "category": "music",
       "subtitle": "Get Rick Rolled"
+    },
+    {
+      "name": "deja-vu",
+      "files": [
+        "deja-vu"
+      ],
+      "category": "music",
+      "subtitle": "initial-d"
     }
   ],
   "language_map": {
     "en_us": {
+      "item.fallenangelsofficialmod.deja_vu": "Deja Vu",
+      "subtitles.deja-vu": "initial-d",
+      "item.fallenangelsofficialmod.deja_vu.desc": "Initial D - Deja Vu",
       "item.fallenangelsofficialmod.never_gonna_give_you_up.desc": "Rick Astley - Never gonna give you up",
       "subtitles.nevergonnagiveyouup": "Get Rick Rolled",
       "item.fallenangelsofficialmod.never_gonna_give_you_up": "Never Gonna Give You Up"

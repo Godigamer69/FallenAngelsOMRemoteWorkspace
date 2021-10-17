@@ -8,5 +8,15 @@
         "stream": true
       }
     ]
+  },
+  "deja-vu": {
+    "category": "music",
+    "subtitle": "subtitles.deja-vu",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:deja-vu",
+        "stream": true
+      }
+    ]
   }
 }

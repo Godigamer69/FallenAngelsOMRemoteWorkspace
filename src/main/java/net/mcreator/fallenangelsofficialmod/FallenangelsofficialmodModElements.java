@@ -47,6 +47,8 @@ public class FallenangelsofficialmodModElements {
 	public FallenangelsofficialmodModElements() {
 		sounds.put(new ResourceLocation("fallenangelsofficialmod", "nevergonnagiveyouup"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "nevergonnagiveyouup")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "deja-vu"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "deja-vu")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("fallenangelsofficialmod").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

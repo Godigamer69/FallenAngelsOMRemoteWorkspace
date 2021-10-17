@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "dejavudisc",
+    "name": "Deja Vu",
+    "description": "Initial D - Deja Vu",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:deja-vu"
+    },
+    "specialInfo": [
+      "Feel the SPEED"
+    ],
+    "hasGlow": true
+  }
+}
