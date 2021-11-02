@@ -49,6 +49,30 @@ public class FallenangelsofficialmodModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "nevergonnagiveyouup")));
 		sounds.put(new ResourceLocation("fallenangelsofficialmod", "deja-vu"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "deja-vu")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "drip-sus"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "drip-sus")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "earthbound-sanctuary-guardian"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "earthbound-sanctuary-guardian")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "giorno-russian"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "giorno-russian")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "himno-betis"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "himno-betis")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "himno-espana"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "himno-espana")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "il-vento-doro"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "il-vento-doro")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "megalovania"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "megalovania")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "roller-disco"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "roller-disco")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "tarantella-napoletana"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "tarantella-napoletana")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "traditionell-musette"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "traditionell-musette")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "wormboss"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "wormboss")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "your-reality"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "your-reality")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("fallenangelsofficialmod").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

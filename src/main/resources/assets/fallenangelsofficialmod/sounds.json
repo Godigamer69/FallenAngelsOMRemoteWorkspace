@@ -18,5 +18,113 @@
         "stream": true
       }
     ]
+  },
+  "drip-sus": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:drip-sus",
+        "stream": true
+      }
+    ]
+  },
+  "earthbound-sanctuary-guardian": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:earthbound-sanctuary-guardian",
+        "stream": true
+      }
+    ]
+  },
+  "giorno-russian": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:giorno-russian",
+        "stream": true
+      }
+    ]
+  },
+  "himno-betis": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:himno-betis",
+        "stream": true
+      }
+    ]
+  },
+  "himno-espana": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:himno-espana",
+        "stream": true
+      }
+    ]
+  },
+  "il-vento-doro": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:il-vento-doro",
+        "stream": true
+      }
+    ]
+  },
+  "megalovania": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:megalovania",
+        "stream": true
+      }
+    ]
+  },
+  "roller-disco": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:roller-disco",
+        "stream": true
+      }
+    ]
+  },
+  "tarantella-napoletana": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:tarantella-napoletana",
+        "stream": true
+      }
+    ]
+  },
+  "traditionell-musette": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:traditionell-musette",
+        "stream": true
+      }
+    ]
+  },
+  "wormboss": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:wormboss",
+        "stream": true
+      }
+    ]
+  },
+  "your-reality": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:your-reality",
+        "stream": true
+      }
+    ]
   }
 }

@@ -37,16 +37,124 @@
       ],
       "category": "music",
       "subtitle": "initial-d"
+    },
+    {
+      "name": "drip-sus",
+      "files": [
+        "drip-sus"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "earthbound-sanctuary-guardian",
+      "files": [
+        "earthbound-sanctuary-guardian"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "giorno-russian",
+      "files": [
+        "giorno-russian"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "himno-betis",
+      "files": [
+        "himno-betis"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "himno-espana",
+      "files": [
+        "himno-espana"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "il-vento-doro",
+      "files": [
+        "il-vento-doro"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "megalovania",
+      "files": [
+        "megalovania"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "roller-disco",
+      "files": [
+        "roller-disco"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "tarantella-napoletana",
+      "files": [
+        "tarantella-napoletana"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "traditionell-musette",
+      "files": [
+        "traditionell-musette"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "wormboss",
+      "files": [
+        "wormboss"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "your-reality",
+      "files": [
+        "your-reality"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "language_map": {
     "en_us": {
-      "item.fallenangelsofficialmod.deja_vu": "Deja Vu",
+      "subtitles.wormboss": "",
       "subtitles.deja-vu": "initial-d",
+      "subtitles.drip-sus": "",
+      "subtitles.giorno-russian": "",
+      "subtitles.traditionell-musette": "",
       "item.fallenangelsofficialmod.deja_vu.desc": "Initial D - Deja Vu",
       "item.fallenangelsofficialmod.never_gonna_give_you_up.desc": "Rick Astley - Never gonna give you up",
+      "item.fallenangelsofficialmod.never_gonna_give_you_up": "Never Gonna Give You Up",
+      "subtitles.your-reality": "",
+      "subtitles.earthbound-sanctuary-guardian": "",
+      "item.fallenangelsofficialmod.deja_vu": "Deja Vu",
+      "subtitles.himno-betis": "",
+      "subtitles.roller-disco": "",
+      "subtitles.il-vento-doro": "",
+      "subtitles.megalovania": "",
+      "subtitles.tarantella-napoletana": "",
       "subtitles.nevergonnagiveyouup": "Get Rick Rolled",
-      "item.fallenangelsofficialmod.never_gonna_give_you_up": "Never Gonna Give You Up"
+      "subtitles.himno-espana": ""
     }
   },
   "foldersRoot": {
