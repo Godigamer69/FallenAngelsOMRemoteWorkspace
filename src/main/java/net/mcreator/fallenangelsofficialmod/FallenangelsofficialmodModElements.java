@@ -55,8 +55,6 @@ public class FallenangelsofficialmodModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "earthbound-sanctuary-guardian")));
 		sounds.put(new ResourceLocation("fallenangelsofficialmod", "giorno-russian"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "giorno-russian")));
-		sounds.put(new ResourceLocation("fallenangelsofficialmod", "himno-betis"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "himno-betis")));
 		sounds.put(new ResourceLocation("fallenangelsofficialmod", "himno-espana"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "himno-espana")));
 		sounds.put(new ResourceLocation("fallenangelsofficialmod", "il-vento-doro"),
@@ -73,6 +71,8 @@ public class FallenangelsofficialmodModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "your-reality")));
 		sounds.put(new ResourceLocation("fallenangelsofficialmod", "alma-partia"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "alma-partia")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "himno-betis"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "himno-betis")));
 		sounds.put(new ResourceLocation("fallenangelsofficialmod", "wormboss"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "wormboss")));
 		try {

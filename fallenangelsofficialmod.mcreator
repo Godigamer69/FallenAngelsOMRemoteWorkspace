@@ -217,14 +217,6 @@
       "subtitle": ""
     },
     {
-      "name": "himno-betis",
-      "files": [
-        "himno-betis"
-      ],
-      "category": "music",
-      "subtitle": ""
-    },
-    {
       "name": "himno-espana",
       "files": [
         "himno-espana"
@@ -284,6 +276,14 @@
       "name": "alma-partia",
       "files": [
         "alma-partia"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "himno-betis",
+      "files": [
+        "himno-betis"
       ],
       "category": "music",
       "subtitle": ""

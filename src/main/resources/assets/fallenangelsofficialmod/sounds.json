@@ -46,15 +46,6 @@
       }
     ]
   },
-  "himno-betis": {
-    "category": "music",
-    "sounds": [
-      {
-        "name": "fallenangelsofficialmod:himno-betis",
-        "stream": true
-      }
-    ]
-  },
   "himno-espana": {
     "category": "music",
     "sounds": [
@@ -123,6 +114,15 @@
     "sounds": [
       {
         "name": "fallenangelsofficialmod:alma-partia",
+        "stream": true
+      }
+    ]
+  },
+  "himno-betis": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:himno-betis",
         "stream": true
       }
     ]
