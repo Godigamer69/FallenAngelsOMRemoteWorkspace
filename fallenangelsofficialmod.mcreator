@@ -133,6 +133,14 @@
       ],
       "category": "music",
       "subtitle": ""
+    },
+    {
+      "name": "alma-partia",
+      "files": [
+        "alma-partia"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "language_map": {
@@ -154,6 +162,7 @@
       "subtitles.megalovania": "",
       "subtitles.tarantella-napoletana": "",
       "subtitles.nevergonnagiveyouup": "Get Rick Rolled",
+      "subtitles.alma-partia": "",
       "subtitles.himno-espana": ""
     }
   },

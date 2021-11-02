@@ -73,6 +73,8 @@ public class FallenangelsofficialmodModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "wormboss")));
 		sounds.put(new ResourceLocation("fallenangelsofficialmod", "your-reality"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "your-reality")));
+		sounds.put(new ResourceLocation("fallenangelsofficialmod", "alma-partia"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("fallenangelsofficialmod", "alma-partia")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("fallenangelsofficialmod").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

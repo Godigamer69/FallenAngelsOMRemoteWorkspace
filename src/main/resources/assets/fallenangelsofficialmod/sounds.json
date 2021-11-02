@@ -126,5 +126,14 @@
         "stream": true
       }
     ]
+  },
+  "alma-partia": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:alma-partia",
+        "stream": true
+      }
+    ]
   }
 }
