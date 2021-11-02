@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "il-vento-di-oro",
+    "name": "Il Vento Di Oro",
+    "description": "Il Vento Di Oro - JoJos Bizarre Adventure",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:il-vento-doro"
+    },
+    "specialInfo": [
+      "Pensabas que era un disco",
+      "PERO ERA YO",
+      "DIO!"
+    ],
+    "hasGlow": false
+  }
+}

@@ -18,6 +18,123 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "deja_vu"
+    },
+    {
+      "name": "AlmaPartia",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alma_partia"
+    },
+    {
+      "name": "DripSus",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drip_sus"
+    },
+    {
+      "name": "EarthboundSanctuaryGuardian",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "earthbound_sanctuary_guardian"
+    },
+    {
+      "name": "GiornoRussian",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "giorno_russian"
+    },
+    {
+      "name": "HimnoBetis",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "himno_betis"
+    },
+    {
+      "name": "HimnoEspana",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "himno_espana"
+    },
+    {
+      "name": "IlVentoDiOro",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "il_vento_di_oro"
+    },
+    {
+      "name": "TraditionellMusete",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "traditionell_musete"
+    },
+    {
+      "name": "Megalovania",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "megalovania"
+    },
+    {
+      "name": "RollerDisco",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "roller_disco"
+    },
+    {
+      "name": "TarantellaNapoletana",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tarantella_napoletana"
+    },
+    {
+      "name": "YourReality",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "your_reality"
+    },
+    {
+      "name": "Wormboss",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wormboss"
     }
   ],
   "variable_elements": [],
@@ -119,14 +236,6 @@
       "subtitle": ""
     },
     {
-      "name": "wormboss",
-      "files": [
-        "wormboss"
-      ],
-      "category": "music",
-      "subtitle": ""
-    },
-    {
       "name": "your-reality",
       "files": [
         "your-reality"
@@ -141,29 +250,63 @@
       ],
       "category": "music",
       "subtitle": ""
+    },
+    {
+      "name": "wormboss",
+      "files": [
+        "wormboss"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "language_map": {
     "en_us": {
+      "item.fallenangelsofficialmod.your_reality.desc": "Your Reality - Monika - DDLC",
       "subtitles.wormboss": "",
+      "item.fallenangelsofficialmod.megalovania.desc": "Megalovania - Toby Fox",
+      "item.fallenangelsofficialmod.wormboss.desc": "Wormboss - Alex\u0027s Mobs",
       "subtitles.deja-vu": "initial-d",
+      "item.fallenangelsofficialmod.giorno_russian.desc": "Giorno Russian",
+      "item.fallenangelsofficialmod.wormboss": "Wormboss",
       "subtitles.drip-sus": "",
-      "subtitles.giorno-russian": "",
       "subtitles.traditionell-musette": "",
-      "item.fallenangelsofficialmod.deja_vu.desc": "Initial D - Deja Vu",
       "item.fallenangelsofficialmod.never_gonna_give_you_up.desc": "Rick Astley - Never gonna give you up",
       "item.fallenangelsofficialmod.never_gonna_give_you_up": "Never Gonna Give You Up",
       "subtitles.your-reality": "",
+      "item.fallenangelsofficialmod.traditionell_musete.desc": "Traditionel Mussete - Francia",
       "subtitles.earthbound-sanctuary-guardian": "",
-      "item.fallenangelsofficialmod.deja_vu": "Deja Vu",
+      "item.fallenangelsofficialmod.giorno_russian": "Giorno Russian",
+      "item.fallenangelsofficialmod.himno_betis": "Himno Betis",
+      "item.fallenangelsofficialmod.himno_espana": "Himno España",
+      "item.fallenangelsofficialmod.megalovania": "Megalovania",
       "subtitles.himno-betis": "",
-      "subtitles.roller-disco": "",
-      "subtitles.il-vento-doro": "",
+      "item.fallenangelsofficialmod.alma_partia": "Alma Partía",
+      "item.fallenangelsofficialmod.drip_sus": "Drip Sus",
       "subtitles.megalovania": "",
       "subtitles.tarantella-napoletana": "",
       "subtitles.nevergonnagiveyouup": "Get Rick Rolled",
+      "item.fallenangelsofficialmod.traditionell_musete": "Traditionell Musete",
       "subtitles.alma-partia": "",
-      "subtitles.himno-espana": ""
+      "item.fallenangelsofficialmod.il_vento_di_oro": "Il Vento Di Oro",
+      "subtitles.himno-espana": "",
+      "item.fallenangelsofficialmod.your_reality": "Your Reality",
+      "item.fallenangelsofficialmod.tarantella_napoletana": "Tarantella Napoletana",
+      "subtitles.giorno-russian": "",
+      "item.fallenangelsofficialmod.roller_disco.desc": "Roller Disco - Family Guy",
+      "item.fallenangelsofficialmod.deja_vu.desc": "Initial D - Deja Vu",
+      "item.fallenangelsofficialmod.earthbound_sanctuary_guardian": "Sanctuary Guardian",
+      "item.fallenangelsofficialmod.il_vento_di_oro.desc": "Il Vento Di Oro - JoJos Bizarre Adventure",
+      "item.fallenangelsofficialmod.himno_betis.desc": "Himno - Betis",
+      "item.fallenangelsofficialmod.deja_vu": "Deja Vu",
+      "item.fallenangelsofficialmod.himno_espana.desc": "Himno - España",
+      "item.fallenangelsofficialmod.drip_sus.desc": "Drip Sus - Among Us",
+      "item.fallenangelsofficialmod.alma_partia.desc": "Alejandro Sans - Alma Partía",
+      "item.fallenangelsofficialmod.tarantella_napoletana.desc": "Tarantella Napoletana - Italia",
+      "item.fallenangelsofficialmod.earthbound_sanctuary_guardian.desc": "Sanctuary Guardian - Earthbound",
+      "subtitles.roller-disco": "",
+      "subtitles.il-vento-doro": "",
+      "item.fallenangelsofficialmod.roller_disco": "Roller Disco"
     }
   },
   "foldersRoot": {

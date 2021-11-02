@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "alejandro-sans",
+    "name": "Alma Partía",
+    "description": "Alejandro Sans - Alma Partía",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:alma-partia"
+    },
+    "specialInfo": [
+      "No juegue con su emocione illo"
+    ],
+    "hasGlow": false
+  }
+}

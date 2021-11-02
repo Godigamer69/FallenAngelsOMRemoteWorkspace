@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "made-in-gabacholandia",
+    "name": "Traditionell Musete",
+    "description": "Traditionel Mussete - Francia",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:traditionell-musette"
+    },
+    "specialInfo": [
+      "Made in Gabacholandia"
+    ],
+    "hasGlow": false
+  }
+}

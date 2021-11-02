@@ -109,15 +109,6 @@
       }
     ]
   },
-  "wormboss": {
-    "category": "music",
-    "sounds": [
-      {
-        "name": "fallenangelsofficialmod:wormboss",
-        "stream": true
-      }
-    ]
-  },
   "your-reality": {
     "category": "music",
     "sounds": [
@@ -132,6 +123,15 @@
     "sounds": [
       {
         "name": "fallenangelsofficialmod:alma-partia",
+        "stream": true
+      }
+    ]
+  },
+  "wormboss": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fallenangelsofficialmod:wormboss",
         "stream": true
       }
     ]

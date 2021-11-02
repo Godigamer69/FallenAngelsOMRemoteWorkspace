@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "drip-sus",
+    "name": "Drip Sus",
+    "description": "Drip Sus - Among Us",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:drip-sus"
+    },
+    "specialInfo": [
+      "Black SUS"
+    ],
+    "hasGlow": false
+  }
+}

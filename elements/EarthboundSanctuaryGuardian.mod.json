@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "earthbound-sanctuary-guardian",
+    "name": "Sanctuary Guardian",
+    "description": "Sanctuary Guardian - Earthbound",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:earthbound-sanctuary-guardian"
+    },
+    "specialInfo": [
+      "what?"
+    ],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "megalovania",
+    "name": "Megalovania",
+    "description": "Megalovania - Toby Fox",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:megalovania"
+    },
+    "specialInfo": [
+      "Wanna have a bad time kiddo?"
+    ],
+    "hasGlow": false
+  }
+}

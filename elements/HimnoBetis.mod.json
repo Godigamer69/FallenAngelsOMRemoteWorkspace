@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "himno-betis",
+    "name": "Himno Betis",
+    "description": "Himno - Betis",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:himno-betis"
+    },
+    "specialInfo": [
+      "Er Beti Loco"
+    ],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "your-reality",
+    "name": "Your Reality",
+    "description": "Your Reality - Monika - DDLC",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:your-reality"
+    },
+    "specialInfo": [
+      "Pensabas que no llegaria hasta aqui? :D"
+    ],
+    "hasGlow": false
+  }
+}

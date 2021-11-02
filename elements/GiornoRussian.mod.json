@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "giorno-russian",
+    "name": "Giorno Russian",
+    "description": "Giorno Russian",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:giorno-russian"
+    },
+    "specialInfo": [
+      "KONO DIO RUSSIA!"
+    ],
+    "hasGlow": false
+  }
+}

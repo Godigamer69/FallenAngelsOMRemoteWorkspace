@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "himno-espana",
+    "name": "Himno España",
+    "description": "Himno - España",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:himno-espana"
+    },
+    "specialInfo": [
+      "Como lo has conseguido estando tan arriba?"
+    ],
+    "hasGlow": false
+  }
+}

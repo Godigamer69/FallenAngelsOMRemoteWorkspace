@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "tarantella-napoletana",
+    "name": "Tarantella Napoletana",
+    "description": "Tarantella Napoletana - Italia",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:tarantella-napoletana"
+    },
+    "specialInfo": [
+      "Pizza Time!"
+    ],
+    "hasGlow": false
+  }
+}

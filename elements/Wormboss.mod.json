@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "wormboss",
+    "name": "Wormboss",
+    "description": "Wormboss - Alex's Mobs",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:wormboss"
+    },
+    "specialInfo": [
+      "Its still sticky",
+      "ewg!"
+    ],
+    "hasGlow": true
+  }
+}

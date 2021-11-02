@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "roller-disco",
+    "name": "Roller Disco",
+    "description": "Roller Disco - Family Guy",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:roller-disco"
+    },
+    "specialInfo": [
+      "A mover el esqueleto!"
+    ],
+    "hasGlow": false
+  }
+}
